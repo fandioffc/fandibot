@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6288215689772@s.whatsapp.net", 
+    "ownerName": "FanXD", 
+    "botName": "FgzBotz-MD",
+    "footer": "© FgzBot | 2022 All reserved", 
+    "sessionName": "Fangz", //Jangan di ganti biar ga eror 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM",
+    "yootube": "https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg",
+    "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
+ 
+    "limitCount": 50,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "FanXD"
+    }
+}
